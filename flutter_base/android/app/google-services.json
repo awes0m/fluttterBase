@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914042783929",
+    "project_id": "cryptofire-130d9",
+    "storage_bucket": "cryptofire-130d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914042783929:android:4049aab717240e5a16f368",
+        "android_client_info": {
+          "package_name": "com.example.flutter_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914042783929-e4igpvjh863r2ian9va43ei2bptnvafl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2xEhxb9v4PTjckC2DN5aXhTl2BlUoxLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914042783929-e4igpvjh863r2ian9va43ei2bptnvafl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
